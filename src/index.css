@@ -57,3 +57,16 @@ article h3 {
   color: var(--link);
   margin-bottom: 0rem;
 }
+
+article small,
+.read-time {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-family: Montserrat, sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+}
+
+.read-time {
+  display: inline-block;
+  margin-left: 0.75rem;
+}
